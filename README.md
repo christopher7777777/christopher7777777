@@ -1,5 +1,5 @@
 # CHRISTOPHER POKHAREL
-## Computer Engineer
+## Developer
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%26+.NET+Specialist;AWS+Certified+Cloud+Practitioner;Django+%26+Java+Developer" alt="Typing SVG" />
